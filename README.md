@@ -1,4 +1,4 @@
-# VLA Drone Simulator System
+# Autonomous Control with Vision Language Action Model for Unmanned Aerial Vehicle in in Flight Mission
 
 Sistem Vision Language Action (VLA) untuk kontrol drone berbasis AI. Sistem terdiri dari 3 komponen utama: model inferensi, backend API, dan frontend simulator 3D yang terhubung real-time.
 
